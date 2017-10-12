@@ -1,0 +1,47 @@
+header,
+main {
+    text-align: center;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+}
+
+.jumbotron{
+  color: white;
+  font-weight: bolder;
+  background-image: url("https://www.planwallpaper.com/static/images/cool-wallpapers-hd-8087-8418-hd-wallpapers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 1px 1px 5px #000000;
+}
+
+.custom-button{
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background-color: rgb(171, 216, 173);
+  border: 1px solid white;
+
+}
+
+.custom-btn:hover{
+  background-color: transparent;
+  border: 2px solid rgb(171, 216, 173);
+  font-weight: bold;
+}
+
+.skills {
+    margin-top: 50px;
+    font-weight: bold;
+}
+
+.skills-logo{
+  height: 150px;
+  width: 150px;
+  margin-top: 10px;
+}
+
+.card{
+  text-align: -webkit-center;
+}
